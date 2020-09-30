@@ -11,8 +11,8 @@
     <android.support.constraint.ConstraintLayout
 
         android:id="@+id/constraintLayout"
-        android:layout_width="327dp"
-        android:layout_height="300dp"
+        android:layout_width="317dp"
+        android:layout_height="303dp"
         android:layout_marginTop="60dp"
         android:layout_marginBottom="119dp"
         android:background="@drawable/rectangle_boundry"
